@@ -23,4 +23,4 @@ with open("C:/Users/Danil/Desktop/parapells/matrix/result.txt", 'w') as file:
     
         file.write(str(N) + ' ' + str(result) + '\n')
         N += 250
-print("complete!")
+#print("complete!")
